@@ -43,7 +43,7 @@ export default function Hero() {
         >
           <div className="avatar-card">
             <div className="avatar-glow"></div>
-            <img src="/images/foto.png" alt="Avatar profesional" />
+            <img src={profile.avatar} alt="Avatar profesional" />
             <div className="terminal-card">
               <div className="terminal-dots"><span></span><span></span><span></span></div>
               <code>const developer = &#123; focus: 'software', mindset: 'product' &#125;;</code>
