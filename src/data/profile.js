@@ -8,7 +8,7 @@ export const profile = {
     linkedin: 'https://do.linkedin.com/in/rusbert-carpio-4a1191321',
     playStore: 'https://play.google.com/store/apps/developer?id=Ameda+Studios',
     cv: '/cv/CV.pdf',
-    avatar: '/images/yo.png',
+    avatar: `${import.meta.env.BASE_URL}images/foto.png`,
     summary: 'Desarrollo aplicaciones móviles, sistemas web y soluciones digitales enfocadas en rendimiento, mantenimiento, monetización y experiencia de usuario.',
 };
 
