@@ -17,7 +17,7 @@ export default function Navbar() {
     <header className="navbar">
       <a className="brand" href="#home" aria-label="Ir al inicio">
         <span className="brand-mark">A</span>
-        <span>Ameda<span>Dev</span></span>
+        <span>Ameda<span>Studios</span></span>
       </a>
 
       <button className="menu-button" onClick={() => setOpen(!open)} aria-label="Abrir menú">

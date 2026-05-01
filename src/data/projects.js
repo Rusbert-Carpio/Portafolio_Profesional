@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: 'PDF Converter App',
+    title: 'Converter PDF: Fast & Offline',
     category: 'Mobile App',
     description:
       'Aplicación Android para convertir imágenes a PDF, unir, comprimir, compartir y gestionar documentos con soporte offline y enfoque de monetización.',
-    stack: ['React Native', 'Expo', 'Android', 'AdMob', 'Offline'],
+    stack: ['React Native', 'Expo', 'Android', 'AdMob', 'Offline', 'TypeScript'],
     links: {
-      demo: 'https://play.google.com/store/apps/details?id=tu.app',
+      demo: 'https://play.google.com/store/apps/details?id=com.amedastudios.img2pdf',
       repo: 'https://github.com/tu-usuario/pdf-converter',
     },
   },
@@ -22,11 +22,11 @@ export const projects = [
     },
   },
   {
-    title: 'Parallel Processing Project',
-    category: 'Academic / Engineering',
+    title: 'ArtemisBanking',
+    category: 'Web System',
     description:
-      'Proyecto orientado al procesamiento concurrente/paralelo, pruebas de rendimiento, documentación técnica y ejecución desde consola.',
-    stack: ['C#', 'Concurrency', 'Console App', 'Documentation'],
+      'Proyecto web bancario orientado a la gestión de cuentas, transacciones y usuarios, con enfoque en seguridad y rendimiento.',
+    stack: ['C#', 'ASP.NET Core', 'Entity Framework', 'SQL Server', 'Bootstrap', 'HTML', 'CSS', 'JavaScript'],
     links: {
       demo: '#',
       repo: 'https://github.com/tu-usuario/parallel-project',
